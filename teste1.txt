@@ -1,3 +1,4 @@
 Algoritmos em Python
 VS code
 Alteração pelo git hub
+Nova alteração
