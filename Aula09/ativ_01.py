@@ -13,3 +13,6 @@ while True:
     else:
         print(f'Número {num} informado com sucesso')
         break
+
+
+# Implementar para função
